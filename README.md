@@ -1,2 +1,1 @@
-# Astro-Striker-AdMob
-Repositório público de Astro Striker para o app-ads.txt
+Repositório público de Nivora para o arquivo app-ads.txt
